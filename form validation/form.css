@@ -1,0 +1,41 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+}
+.main{
+    background-color: aqua;
+    display: flex;
+    height: 100%;
+    
+}
+.form{
+    height: 500px;
+    width: 50%;
+    color: aliceblue;
+    margin: 200px;
+    text-align: center;
+    background-color: rgb(238, 145, 145);
+}
+#myForm{
+    margin-top: 100px;
+    padding: 50px;
+
+}
+.table{
+    background-color: rgb(249, 249, 169);
+    text-align: center;
+    width: 800px;
+    height: 500px;
+    margin: 200px;
+    text-align: center;
+}
+.dibba{
+    width: 300px;
+    height: 40px;
+    margin: 10px;
+    color: rgb(10, 37, 38);
+}
+.hdding{
+padding: 25px;
+}
